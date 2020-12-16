@@ -2,8 +2,8 @@
 
 ## Instructions for installing and starting a project
 
-1. npm install 
-2. npm run start
+1. yarn install 
+2. yarn run start
 
 ## Tech Stack
 * React
